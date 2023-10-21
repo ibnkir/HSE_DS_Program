@@ -1,1 +1,1 @@
-## Course "Applied Statistics for Machine Learning"
+### Course "Applied Statistics for Machine Learning"
