@@ -1,2 +1,2 @@
-## Course: "Applied Data Analysis"
-### Home Work: Toxic Comments Classification.
+## Course "Applied Data Analysis"
+### Home Work #1: Toxic Comments Classification
